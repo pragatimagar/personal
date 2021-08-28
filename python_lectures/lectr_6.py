@@ -2,14 +2,14 @@
 
 # x = 0
 # while x<10 :
-    # print('The value of ',x)
-    # if (x==4):
-        # print('value is equals to ',x)
-        # break
-    # else:
-        # x = x+2
-        # print('continue list...')
-        # continue
+#     print('The value of ',x)
+#     if (x==4):
+#         print('value is equals to ',x)
+#         break
+#     else:
+#         x = x+2
+#         print('continue list...')
+        
     
 #-------------Range------------------
 
@@ -22,6 +22,7 @@
 
 # print(list(enumerate('pragati')))
 # a = dict(enumerate('pragati'))
+
 # print(a.keys())
 
 # for i,j in enumerate('pragati'):
@@ -31,7 +32,7 @@
 #-------------zip-----------------
 
 # list1 = [2,5,6,8]
-# # list2 = ['abcd']
+# list2 = ['abcd']
 # list2 = ['a','b','c','d']
 
 
