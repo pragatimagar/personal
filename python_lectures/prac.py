@@ -77,6 +77,6 @@
 # avg = int((a+b)/2) # o/p is int value
 # print('The average of a and b is ',avg)
 
-a = int(input('Enter a value'))
-square = (a**2)
-print('the square of a is ',square)
+# a = int(input('Enter a value'))
+# square = (a**2)
+# print('the square of a is ',square)
