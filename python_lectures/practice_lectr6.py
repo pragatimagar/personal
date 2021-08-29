@@ -15,13 +15,15 @@
 #         print('done')
 #         break
 
-# x = 1        #doubt
+# x = 1        
 # while x<=10 :
 #     print('enter value is ',x)
 #     x+=2
 #     if (x==3):
+#         continue
 #         print('same value')
 #     else:
+        
 #         print('continue list')
 
 
