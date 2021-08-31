@@ -46,11 +46,11 @@
 #     print(a)
 #     print('value is',b)
 #------------------------
-list1 =[1,2,3,4,5,6,7,8]
-for i in list1:
+# list1 =[1,2,3,4,5,6,7,8]
+# for i in list1:
     
-    if not(i%2):
-        print(i)
+#     if not(i%2):
+#         print(i)
 
 #--------------------------------
 # lst ='My Name is'
