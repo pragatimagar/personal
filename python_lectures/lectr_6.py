@@ -64,3 +64,15 @@
 # lst = [z for z in range(11) if z%2==0]
 # print(lst)
 
+#---------------------------------------------
+# fro tuple list print dict with key of no in seq with first index of tuple
+#i = key(aslways a string so convert in str from int & items is each tuple from list)
+# b = [(1,2,3),(4,5,6),(7,8,9)]
+# empty_dict = {}
+# for i,items in enumerate(b):
+#      empty_dict[str(i)]=items[0]
+# print(empty_dict)     
+
+
+
+

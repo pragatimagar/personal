@@ -24,14 +24,17 @@
 # d = sqr_num(5)
 # print(d)       
 
+#------prime
+
 # def pri_no(num):
 #     for n in range(2,num):
-#         if not num%n==0:
+#         if num%n==0:
 #             print('This is not prime ')
 #             break
+            
 #     else:
-#             print('this is prime')  
-# pri_no(7)            
+#         print('this is prime')  
+# pri_no(20)            
 
 #--------------------map------------------
 # def square(num):
@@ -44,12 +47,14 @@
 
 
 # def add(num):
-    # return num+2
+#     return num+2
 
 # lst = [1,2,5,7]
 # new = list(map(add,lst))
 
 # print(new)
+
+
 
 
 
@@ -61,7 +66,8 @@
 #     else:
 #         return name[0]
 # a = list(map(even_odds,names))
-# print(a)            
+# print(a)  
+     
 
 
 
@@ -74,23 +80,34 @@
 # a = list(filter(even_odd,l1))
 # print(a) 
 
-def even_odd(num):
-    return num%2!=0
-l1 = [1,2,3,4,5,6,8]
-a = list(filter(even_odd,l1))
-print(a)
+# def even_odd(num):
+#     return num%2!=0
+# l1 = [1,2,3,4,5,6,8]
+# a = list(filter(even_odd,l1))
+# print(a)
+# from collections import Counter
+# a='12345566677888' 
+# b=a.split()
+# c=Counter(b)
+# print(c)
+
+# from collections import Counter
+# a='12345566677888' 
+# b=a.split()
+# c=Counter(b)
+# print(c)
 
 
 
+# from collections import Counter
 
+# b = input().split()
 
+# k = Counter(b)
 
+# d = dict(k)
 
-
-
-
-
-
+# print(min(d, key=lambda k: d[k]))
 
 
 
