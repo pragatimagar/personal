@@ -501,7 +501,4 @@
 # print(list(filter(even_odd,lst))) 
 # 
 
-def paper_doll(text):
-    return [chrt*3 for chrt in text]
-otp = paper_doll('Hello')
-print(otp) 
+ 
